@@ -1,4 +1,4 @@
-# Emotion Recognition from Images and Videos
+# EmoVision - Emotion Recognition from Images and Videos
 [DEMO LINK](https://colab.research.google.com/drive/1wPSV-k95ii5iDpa2Cr7qyc_7DrBdV4R6?usp=sharing)
 
 This project repository provides two scripts for recognizing emotions from facial expressions in images and videos. The project utilizes a Convolutional Neural Network (CNN) built using TensorFlow's Keras API, OpenCV for image processing, and a pre-trained model to predict emotions.
